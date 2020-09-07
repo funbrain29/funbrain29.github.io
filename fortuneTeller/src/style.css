@@ -1,0 +1,56 @@
+body {
+    background-color: #eeeeee;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#container {
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    background-color: #0e2433;
+    color: white;
+    text-align:center;
+}
+
+#footer {
+    text-align:center;
+    padding: 10px;
+    background-color:grey;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #0e2433; /* Green */
+    border: none;
+    color: white;
+    padding: 4px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 25px;
+}
+
+#my-input {
+    margin-right: auto;
+}
+
+#completed-list {
+    font-weight: bold;
+}
+
+#content {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#lists {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-style: groove;
+    border-radius: 25px;
+}

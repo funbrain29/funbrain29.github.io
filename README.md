@@ -1,7 +1,7 @@
 ## Projects thus far
 
 * [Simple Checklist](https://funbrain29.github.io/fortuneTeller/src)
-> First Javascript program
+> First Javascript program I've written
 
 ## sauce code
 

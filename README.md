@@ -3,6 +3,6 @@
 * [Simple Checklist](https://funbrain29.github.io/fortuneTeller/src)
 > First Javascript program I've written
 
-## sauce code
+## My Github Page
 
-[github.com/funbrain29/funbrain29.github.io](https://github.com/funbrain29/funbrain29.github.io)
+[github.com/funbrain29/](https://github.com/funbrain29/)
